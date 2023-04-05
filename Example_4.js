@@ -4,7 +4,7 @@
 
 //Easy solution O(n^2)
 
-function sumZero(arr){
+/*function sumZero(arr){
     for(i=0; i<=arr.length; i++){
         for(j=i+1; j<=arr.length; j++){
             if(arr[1] + arr[j] ===0){
@@ -12,7 +12,7 @@ function sumZero(arr){
             }
         }
     }
-}
+}*/
 
 //using another approach(multiple pointers)
 //time complexity O(N) space complexity O(1)
