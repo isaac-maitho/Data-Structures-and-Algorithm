@@ -48,4 +48,4 @@ function same(arr1, arr2){
     console.log(freqCounter1, freqCounter2)
     return true
 }
-same([4,2,2], [4,4,16])
+(same([4,2,2], [4,4,16]))
