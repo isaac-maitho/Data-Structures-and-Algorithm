@@ -3,3 +3,6 @@ function sumRange(num){
     return num + sumRange(num-1)
 }
 sumRange()
+
+//expected output 
+//if num is 2 the output is 3
