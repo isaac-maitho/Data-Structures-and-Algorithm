@@ -1,3 +1,4 @@
+//takes up an array and returns the odd numbers in the array
 function oddValues(arr){
     let result = []
     function helper(input){
