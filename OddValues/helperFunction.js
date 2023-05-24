@@ -5,7 +5,6 @@ function oddValues(arr){
      if(input.length === 0){
         return;
     }
-
      if(input[0] % 2 !== 0){
         return result.push(input[0])
     }
