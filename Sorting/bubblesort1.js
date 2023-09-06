@@ -1,3 +1,5 @@
+//A sorting algorithm where the large values bibble up to thne top
+
 function bubbleSort(arr){
     let noSwap;
     for (let i = arr.length; i>0; i--){
